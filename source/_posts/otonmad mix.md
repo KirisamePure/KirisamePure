@@ -10,10 +10,10 @@ title: otomad mixing
 一般使用预设，默认也可以，适当调整阈值。
 
 # limiter
-用于补偿被eq削去的音量，将**Ceiling设置为-0.1至-0.3
+用于补偿被eq削去的音量，将**Ceiling**设置为-0.1至-0.3
 
 # reverb
-一般调整deley和wet就好，推荐使用**发送
+一般调整deley和wet就好，推荐使用**发送**
 
 # others
 ott,YOU WA SHOCK,失真......
