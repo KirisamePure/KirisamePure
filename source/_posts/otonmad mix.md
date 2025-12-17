@@ -1,21 +1,21 @@
 ---
 title: otomad mixing 
 ---
-##音mad混音的一般流程
+## 音mad混音的一般流程
 
-#EQ
+# EQ
 添加eq，适当高低切，除非有特别明显的噪音否则**不建议无脑高低切，使用小q值，如0.7左右。在总轨削除中频约6 7dB
 
-#压缩器
+# 压缩器
 一般使用预设，默认也可以，适当调整阈值。
 
-#limiter
+# limiter
 用于补偿被eq削去的音量，将**Ceiling设置为-0.1至-0.3
 
-#reverb
+# reverb
 一般调整deley和wet就好，推荐使用**发送
 
-#others
+# others
 ott,YOU WA SHOCK,失真......
 
 
